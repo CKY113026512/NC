@@ -1,0 +1,3 @@
+=== ghost cells ===
+rho_ext[0] = rho_L
+rho_ext[-1] = rho_R
